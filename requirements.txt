@@ -1,0 +1,10 @@
+blinker==1.9.0
+click==8.1.8
+Flask==3.1.0
+itsdangerous==2.2.0
+Jinja2==3.1.5
+MarkupSafe==3.0.2
+netifaces==0.11.0
+python-dotenv==1.0.1
+websocket_server @ git+https://github.com/Pithikos/python-websocket-server@56af8aeed025465e70133f19f96db18113e50a91
+Werkzeug==3.1.3
